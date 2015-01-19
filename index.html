@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html ng-app="myApp">
+    <head lang="en">
+        <meta charset="utf-8">
+        <title>Custom Plunker</title>  
+        <link rel="stylesheet" type="text/css" href="js/bootstrap-3.2.0-dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="js/bootstrap-3.2.0-dist/css/bootstrap-theme.min.css" />
+        <script src="js/angular/angular.min.js"></script>
+        <script src="js/angular-cookies/angular-cookies.js"></script>
+        <script src="js/angular-route/angular-route.js"></script>
+        <script src="js/angular-resource/angular-resource.js"></script>
+        <script src="js/jquery/jquery.min.js"></script>
+        <script src="js/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
+        <script src="js/ui-bootstrap-tpls-0.11.0.js"></script>
+        <script src="js/date_format.js"></script>
+        <script src = "js/ckeditor/ckeditor.js"></script>
+        <script src="js/angular-bootstrap-nav-tree-master/abn_tree_directive.js"></script>
+        <link rel="stylesheet" type="text/css" href="js/angular-bootstrap-nav-tree-master/abn_tree.css" />
+
+       <script src="js/multi_upload/angular-file-upload.js"></script>
+
+        <script src="app/configure.js"></script>
+        <script src="app/stores.js"></script>
+        <script src="app/app.js"></script>
+        <script src="app/services.js"></script>
+        <script src="app/controllers.js"></script>
+        <script src="app/directives.js"></script>
+        <script src="app/filters.js"></script>
+        <script src = "app/rus_locale.js"></script>
+
+        <style>
+               input.ng-invalid.ng-dirty {
+                background-color: #FA787E;
+              }
+              tr,th{
+                cursor:pointer;
+              }
+              .modal-dialog
+              {
+                width:800px;
+              }
+              .ngSortButtonDown {
+                position: absolute;
+                top: 3px;
+                left: 0;
+                right: 0;
+                margin-left: auto;
+                margin-right: auto;
+                border-color: gray transparent;
+                border-style: solid;
+                border-width: 0 5px 5px 5px;
+                height: 0;
+                width: 0;
+              }
+              .ngSortButtonUp {
+                position: absolute;
+                top: 3px;
+                left: 0;
+                right: 0;
+                margin-left: auto;
+                margin-right: auto;
+                border-color: gray transparent;
+                border-style: solid;
+                border-width: 5px 5px 0 5px;
+                height: 0;
+                width: 0;
+              }
+              th {
+                position:relative;
+              }
+
+              .wrp-pagination{
+                text-align: right;
+              }
+              
+              .modal-body {
+                overflow-y: scroll;
+                height: 400px;
+              }
+             .qm {
+                 margin: 0;
+                 position: absolute;
+                 top: 30%;
+              }
+              .pointer {
+                cursor: pointer;
+              }
+               .pointer:hover {
+                color:red;
+              }
+              .fileinput-button input {
+                position: absolute;
+                top: 0;
+                right: 0;
+                margin: 0;
+                opacity: 0;
+                -ms-filter: 'alpha(opacity=0)';
+                font-size: 200px;
+                direction: ltr;
+                cursor: pointer;
+                }
+
+                .progress {
+                  margin-top:20px;
+                }
+
+                .multi_pict {
+                  display: inline-block;
+                  margin: 15px;
+                  text-align: center;
+                }
+
+                .multi_pict-item {
+                  margin:10px 0;
+                }
+            /*
+             table {
+              display: block;
+              height: 500px;
+              overflow-y: scroll;
+             }*/
+
+</style>
+    </head>
+    <body ng-controller="AppCtrl">
+      <div ng-controller="AuthCtrl">
+        <div ng-if="status.authorized">
+          <entity-top-menu data="table_parameters"></entity-top-menu>
+          <div class="row">
+            <div class="col-md-11"></div>
+            <div class="col-md-1"><button type="button" class="btn btn-primary btn-xs" ng-click="logout();">Выйти</button></div>
+          </div>
+          <div class="view-container">
+            <div ng-view class="view-frame"></div>
+          </div>
+        </div>
+        <div ng-if="!status.authorized">
+          <div ng-include src='"templates/auth.html"'></div>
+        </div>      
+      </div>
+    </body>
+</html>

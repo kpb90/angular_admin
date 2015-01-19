@@ -1,0 +1,105 @@
+ <style>
+ 	.panel-primary>.panel-heading {
+ 		background-image: linear-gradient(to bottom,#fff 0,#f8f8f8 100%);
+ 	}
+ 	.panel-title {
+		color: rgb(119, 119, 119); 		
+ 	}
+ 	.panel-primary {
+		border-color: #e7e7e7;
+	}
+	.panel-primary>.panel-heading {
+		border-color: #e7e7e7;	
+	}
+	.modal-content {
+		width: 358px;
+	}
+	.modal-body {
+		overflow-y: auto;
+		height: 77px;
+	}
+ </style>
+ <script>
+
+ </script>
+ <div class = 'fff' style = 'display:table;width:99%;' ng-controller="AbnTestController">
+ <div ng-show="error_message" class="alert alert-danger" role="alert">
+  <a href="#" class="alert-link">{{error_message}}</a>
+</div>
+ <div style = 'display:table-row;'>
+ 	<div style = 'width:35%;display:table-cell;vertical-align:top;padding-right:1%;'>
+  		<div class="panel panel-primary">
+      		<div style = "overflow:hidden;" class="panel-heading">
+    			<div class="btn-group" role="toolbar">
+      				<button ng-click = "addItem()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-plus"></span> Добавить</button>
+      				<button ng-click = "removeItem()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-remove"></span>Удалить</button>
+  				</div>
+      		</div>
+      		<div style = "overflow-y: scroll;" class="panel-body">
+        		<abn-tree tree-data="my_data" tree-control="my_tree" on-select="my_tree_handler(branch)" expand-level="2" initial-selection="Granny Smith"></abn-tree>
+      		</div>
+    	</div>
+ 	</div>
+ 	
+ 	<div style = 'width:64%;display:table-cell;vertical-align:top;'>
+ 		<div class="panel panel-primary">
+      		<div class="panel-heading">
+        		<div class="btn-group" role="toolbar">
+      				<button ng-click = "savePageInfo()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-floppy-disk"></span>Сохранить</button>
+      			</div>
+      		</div>
+      		<div class="panel-body">
+            <div class="form-horizontal">
+              <div class="form-group row">
+                <label for="inputEmail3" class="col-sm-1 control-label ng-binding ng-scope">Название</label>
+                  <div class="col-sm-4 ng-scope">
+                    <input class="form-control" ng-model = 'data.menu_title' type="text">
+                  </div>              
+                <label for="inputEmail3" class="col-sm-1 control-label ng-binding ng-scope">Адрес</label>
+                  <div class="col-sm-4 ng-scope">
+                    <input class="form-control" ng-model = 'data.file_name' type="text">
+                  </div>              
+              </div>            
+            </div>
+        		<textarea class="form-control ck-editor" ng-model="data.content"></textarea> 
+      		</div>
+    	</div>
+ 	</div>
+	</div>
+	  <div ng-class="add_page? 'modal show' : 'modal'">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" ng-click="reset_add_page();"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Введите название новой страницы</h4>
+        </div>
+        <div class="modal-body">
+        	<form name = "modal_dialog.form" class="form-horizontal" role="form" novalidate>
+				<label for="inputEmail3" class="col-sm-4 control-label">Название страницы</label>
+			    								<div class="col-sm-8">
+			      									<input class="form-control" type = "text" ng-model="form_model.name_page">
+			    								</div>
+  		    </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" ng-click="saveItem();reset_add_page();">Сохранить</button>
+        </div>
+      </div>
+    </div>
+  </div>
+   <div ng-class="remove_page? 'modal show' : 'modal'">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div style = 'border:0;' class="modal-header">
+          <button type="button" class="close" ng-click="reset_remove_page();"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">Вы точно хотите удалить страницу</h4>
+          <div style = "text-align:center;">"{{name_remove_page}}"</div>
+        </div>
+        <div style = "text-align:center;" class="modal-footer">
+          <button type="button" class="btn btn-primary" ng-click="removePage();reset_remove_page();">Да</button>
+          <button type="button" class="btn btn-primary" ng-click="reset_remove_page();">Нет</button>
+        </div>
+      </div>
+    </div>
+  </div>
+ </div>

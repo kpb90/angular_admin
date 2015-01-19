@@ -1,0 +1,1407 @@
+2014-11-04 11:48:51: СЕССИЯ: 
+2014-11-04 11:50:30: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:50:45: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:51:15: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:51:23: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:51:27: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:51:29: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 11:51:44: СЕССИЯ: Array
+(
+    [user_id] => 1
+    [KCFINDER] => Array
+        (
+            [disabled] => 
+        )
+
+)
+
+2014-11-04 12:13:21: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1322
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103201
+)
+
+2014-11-04 12:22:39: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1359
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103759
+)
+
+2014-11-04 12:22:44: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1359
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103764
+)
+
+2014-11-04 12:22:46: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1355
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103766
+)
+
+2014-11-04 12:22:47: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1355
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10&start=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10&start=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103767
+)
+
+2014-11-04 12:22:49: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1355
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10&start=0
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10&start=0
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103769
+)
+
+2014-11-04 12:23:01: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1375
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103781
+)
+
+2014-11-04 12:23:03: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1375
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103783
+)
+
+2014-11-04 12:23:49: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_PRAGMA] => no-cache
+    [HTTP_CACHE_CONTROL] => no-cache
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1386
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415103829
+)
+
+2014-11-04 12:28:23: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_PRAGMA] => no-cache
+    [HTTP_CACHE_CONTROL] => no-cache
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1467
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104103
+)
+
+2014-11-04 12:29:21: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_PRAGMA] => no-cache
+    [HTTP_CACHE_CONTROL] => no-cache
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1478
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104161
+)
+
+2014-11-04 12:30:11: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1491
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104211
+)
+
+2014-11-04 12:30:19: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1491
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104219
+)
+
+2014-11-04 12:30:23: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1491
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104223
+)
+
+2014-11-04 12:36:55: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1744
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104615
+)
+
+2014-11-04 12:36:59: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1744
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104619
+)
+
+2014-11-04 12:38:33: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1783
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104713
+)
+
+2014-11-04 12:38:39: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1783
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104719
+)
+
+2014-11-04 12:38:47: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1783
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104727
+)
+
+2014-11-04 12:39:00: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104740
+)
+
+2014-11-04 12:39:10: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104750
+)
+
+2014-11-04 12:39:12: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104752
+)
+
+2014-11-04 12:39:16: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10&start=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10&start=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104756
+)
+
+2014-11-04 12:39:17: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10&start=0
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10&start=0
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104757
+)
+
+2014-11-04 12:39:22: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 1801
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415104762
+)
+
+2014-11-04 13:25:24: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2519
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415107524
+)
+
+2014-11-04 13:39:39: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2870
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108379
+)
+
+2014-11-04 13:39:50: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2870
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108390
+)
+
+2014-11-04 13:39:53: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2870
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108393
+)
+
+2014-11-04 13:41:44: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; username=admin3; password=; lt-vc=10; PHPSESSID=ko8e56nh916k1k9jh579eot4p3
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2966
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108504
+)
+
+2014-11-04 13:43:24: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_COOKIE] => BITRIX_SM_SALE_UID=773d02c07b8a59ee35f6fb5123d8a4b9; username=admin3; password=; PHPSESSID=oklg6t2qopa2uvl88uhmucap75
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3128
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108604
+)
+
+2014-11-04 13:43:26: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_COOKIE] => BITRIX_SM_SALE_UID=773d02c07b8a59ee35f6fb5123d8a4b9; username=admin3; password=; PHPSESSID=oklg6t2qopa2uvl88uhmucap75
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3128
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => limit=10&sort=density
+    [REQUEST_URI] => /catalog/pump/controller.php?limit=10&sort=density
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108606
+)
+
+2014-11-04 13:43:28: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_COOKIE] => BITRIX_SM_SALE_UID=773d02c07b8a59ee35f6fb5123d8a4b9; username=admin3; password=; PHPSESSID=oklg6t2qopa2uvl88uhmucap75
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3128
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => limit=10&sort=engine
+    [REQUEST_URI] => /catalog/pump/controller.php?limit=10&sort=engine
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108608
+)
+
+2014-11-04 13:43:33: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_COOKIE] => BITRIX_SM_SALE_UID=773d02c07b8a59ee35f6fb5123d8a4b9; username=admin3; password=; PHPSESSID=oklg6t2qopa2uvl88uhmucap75
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3128
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108613
+)
+
+2014-11-04 13:43:36: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_COOKIE] => BITRIX_SM_SALE_UID=773d02c07b8a59ee35f6fb5123d8a4b9; username=admin3; password=; PHPSESSID=oklg6t2qopa2uvl88uhmucap75
+    [HTTP_CONNECTION] => keep-alive
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3128
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415108616
+)
+
+2014-11-12 08:05:17: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; PHPSESSID=dt01i060b4b50f8mkcdvk9lfg0; username=admin3; password=
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2774
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415779517
+)
+
+2014-11-12 08:05:23: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; PHPSESSID=dt01i060b4b50f8mkcdvk9lfg0; username=admin3; password=
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 2774
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415779523
+)
+
+2014-11-12 08:10:00: СЕССИЯ: Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_ACCEPT] => application/json, text/plain, */*
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+    [HTTP_REFERER] => http://localhost/catalog/
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate,sdch
+    [HTTP_ACCEPT_LANGUAGE] => ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+    [HTTP_COOKIE] => size=4; CP.mode=B; BITRIX_SM_user_profile_open=reg; BITRIX_SM_SALE_UID=1; BITRIX_SM_LOGIN=admin; BITRIX_SM_GUEST_ID=1; BITRIX_SM_LAST_VISIT=26.09.2014+13%3A01%3A55; BITRIX_SM_BANNERS=1_1_13_03102014%2C1_3_4_03102014%2C1_4_5_03102014%2C1_2_4_03102014; PHPSESSID=dt01i060b4b50f8mkcdvk9lfg0; username=admin3; password=
+    [PATH] => C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Acronis\SnapAPI\;C:\Program Files\WinMerge;C:\Program Files\TortoiseSVN\bin;C:\Program Files\GnuWin32\bin;C:\Program Files\nodejs\;C:\Program Files\Git\bin\
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.22 (Win32) PHP/5.3.13
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => C:/mysvn/pump/
+    [SERVER_ADMIN] => admin@localhost
+    [SCRIPT_FILENAME] => C:/mysvn/pump/catalog/pump/controller.php
+    [REMOTE_PORT] => 3029
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => dir=true&limit=10
+    [REQUEST_URI] => /catalog/pump/controller.php?dir=true&limit=10
+    [SCRIPT_NAME] => /catalog/pump/controller.php
+    [PHP_SELF] => /catalog/pump/controller.php
+    [REQUEST_TIME] => 1415779800
+)
+

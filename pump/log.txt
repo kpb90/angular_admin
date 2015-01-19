@@ -1,0 +1,17 @@
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id desc LIMIT 0, 10' at line 1
+mysql error: Unknown column 'text_small' in 'where clause'
+mysql error: Unknown column 'text_small' in 'where clause'
+mysql error: Unknown column 'text_small' in 'where clause'
+mysql error: Unknown column 'text_small' in 'where clause'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'
+mysql error: Unknown column 'category' in 'field list'

@@ -1,0 +1,94 @@
+﻿<div ng-show="error_message" class="alert alert-danger" role="alert">
+  <a href="#" class="alert-link">{{error_message}}</a>
+</div>
+<div ng-controller="TableCtrl">
+  <div class="btn-group" role="toolbar">
+      <button ng-click = "addItem()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-plus"></span> Добавить</button>
+      <button ng-click = "editItem()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-pencil"></span>Редактировать</button>
+      <button ng-click = "removeItem()" type="button" class="btn btn-default btn-xs"><span class="glyphicon glyphicon-remove"></span>Удалить</button>
+      <span style = "margin-left:20px;">
+        <button type="button" class="btn btn-default btn-xs" ng-repeat="value in toolbar" ng-click = "action_handler(value.handler);"><span class="glyphicon"></span>{{value.title}}</button>
+      </span>
+  </div>
+   <ng-include ng-if="form_template" src="form_template"> </ng-include>
+  <table class="table table-striped table-hover">
+     <thead>
+      <tr>
+        <th style = "width:1%;"></th>
+        <th style = "width:10%;" ng-repeat="field in configure_types" ng-if="field.visible==true" ng-click="orderby(field.name)">{{field.header}}<div ng-class="{ngSortButtonUp:data.order[field.name], ngSortButtonDown: data.order[field.name]== false}"></div></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="row_data in rows" ng-click="lightRow(row_data.id, $index)" ng-dblclick="editItem(row_data, configure_types)" ng-class = "{info: isSelectedRow(row_data.id)}">
+          <td style = "width:1%;"><input type="checkbox" ng-checked="isSelectedRow(row_data.id)" ng-click="multiLightRow(row_data.id, $index);$event.stopPropagation();"></td>
+          <td style = "width:10%;" ng-repeat="(name,field) in configure_types " ng-if="field.visible==true">
+            <div ng-switch on="field.type">
+              <div ng-switch-when="combobox">{{stores[field.store][row_data[field.name]]}}</div>
+              <div ng-switch-when="pict"><img style = "max-width:100px;" ng-src="{{row_data[field.name]}}"></div>
+               <div ng-switch-when="date">{{row_data[field.name]= formating_date(row_data[field.name])}}</div>
+              <div ng-switch-default>{{row_data[field.name]}}</div>
+            </div>
+      	  </td>
+      </tr>
+    </tbody>
+  </table>
+  <div class = "wrp-pagination">
+    <pagination items-per-page = "pagination.itemsPerPage" total-items="pagination.bigTotalItems" ng-model="pagination.bigCurrentPage" max-size="pagination.maxSize" class="pagination-sm" boundary-links="true" rotate="true" ng-change="pageChanged()"></pagination>
+  </div>
+  <div ng-class="editable_row? 'modal show' : 'modal'">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" ng-click="reset_editable_row();"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <h4 class="modal-title">{{dialog_title}}</h4>
+        </div>
+        <div class="modal-body">
+        	<form name = "modal_dialog.form" class="form-horizontal" role="form" enctype="multipart/form-data" novalidate>
+             <div class="form-group" ng-repeat="field in configure_types ">
+                  <div ng-switch on="field.type">
+                         <div ng-switch-when="combobox">
+                            <div ng-include src='"templates/combobox.html"'></div>
+                        </div>
+                         <div ng-switch-when="string">
+                            <div ng-include src='"templates/string.html"'></div>
+                        </div>
+                        <div ng-switch-when="rich_text">
+                            <div ng-include src='"templates/rich_text.html"'></div>
+                        </div>
+                         <div ng-switch-when="date">
+                           <div ng-include src='"templates/date.html"'></div>
+                        </div>
+                        <div ng-switch-when="id">
+                           <div></div>
+                        </div>
+                        <div ng-switch-when="pict">
+                           <div ng-include src='"templates/loader_pict.html"'></div>
+                        </div>
+                        <div ng-switch-default>
+                          <div ng-include src='"templates/string.html"'></div>
+                        </div>
+                   </div>
+              </div>
+              <div  class="form-group" ng-repeat="(dynamic_field_key, dynamic_field_val) in form_model.dynamic_fields ">
+                <label for="inputEmail3" class="col-sm-2 control-label">{{dynamic_field_val.opt}}</label>
+                  <div class="col-sm-9">
+                    <input class="form-control" type = "text" ng-model="dynamic_field_val.val" ng-required="field.required">
+                  </div>
+                   <div class="col-sm-1"><span ng-click = "remove_dynamic_field(dynamic_field_val, data.type)" class="glyphicon glyphicon-remove pointer"></span></div>
+              </div>
+  		    </form>
+          <div class="col-sm-2"></div>
+          <div class="col-sm-10">
+              <ng-include src="dialog_add_button_template"></ng-include>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="reset_editable_row();">Закрыть</button>
+          <button type="button" class="btn btn-primary" ng-click="save_model_form();reset_editable_row();">Сохранить</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <ng-include ng-repeat="value in action_templates" src="value"></ng-include>
+</div>
+  

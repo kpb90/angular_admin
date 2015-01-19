@@ -1,0 +1,31 @@
+ <div ng-controller="AddCharacteristicCtrl">
+	 <button style = "float:left;" type="button" class="btn btn-primary" ng-click="addField(form_model.id, data.type);">Добавить поле</button>
+	 <div style = 'position:fixed;' class = 'qm' ng-class="add_field? 'modal show' : 'modal'">
+	    <div class="modal-dialog">
+	      <div class="modal-content">
+	        <div style = 'border:0;' class="modal-header">
+	          <button type="button" class="close" ng-click="resetAddField();"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+	           <h4 class="modal-title" style = 'text-align:left;'>Добавление нового поля</h4>
+	        </div>
+	        <div style = "height:auto;" class="modal-body form-horizontal">
+	            <div class="form-group">
+	          		<label for="inputEmail3" class="col-sm-2 control-label">Название</label>
+					<div class="col-sm-10">
+						<input class="form-control" type = "text" ng-model="new_characteristic_opt">
+					</div>
+				</div>
+				<div class="form-group">
+	          		<label for="inputEmail3" class="col-sm-2 control-label">Значение</label>
+					<div class="col-sm-10">
+						<input class="form-control" type = "text" ng-model="new_characteristic_val">
+					</div>
+				</div>
+	        </div>
+	        <div style = "text-align:center;" class="modal-footer">
+	          <button type="button" class="btn btn-primary" ng-click="saveField();resetAddField();">Сохранить</button>
+	          <button type="button" class="btn btn-primary" ng-click="resetAddField();">Отмена</button>
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+</div>

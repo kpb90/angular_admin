@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<title>RERER</title>
+	<meta name="description" lang="ru" content="RERER" />
+	<meta name="keywords" lang="ru" content="RERER" />
+	<link rel="stylesheet" href="/style.css?version=10" type="text/css" media="all" />
+	<script src="/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+
+
+</head>
+<body>2
+	<textarea class = 'textarea'></textarea>	
+	<button class = 'btw'>click</button>
+	<script>
+		var ajaxQueue = $({});
+		$(document).ready(function()
+		{
+			$(".btw").click(function () {
+				var source = $(".textarea").val(),
+					arr_source = source.split(/[\\.!\?]/);
+			
+				setTimeout(function() {put_to_vocabulary (arr_source);}, 1)
+			});
+		});
+		
+	    function put_to_vocabulary  (arr_source) {
+			// Get each item we want to copy.	
+			$( arr_source ).each(function(i,e) {
+				// Queue up an ajax request.	
+				$.ajaxQueue({			
+					url: "/test.php",			
+					data: {html: e},			
+					type: "POST",			
+					success: function( data ) {				
+						console.log(e);			
+					}		
+				}).delay( 1000 );	
+			});
+		}		
+		
+		$.ajaxQueue = function( ajaxOpts ) {			
+			// Hold the original complete function.			
+			var oldComplete = ajaxOpts.complete;		 			
+			// Queue our ajax request.			
+			ajaxQueue.queue(function( next ) {				
+			// Create a complete callback to fire the next event in the queue.				
+			ajaxOpts.complete = function() {					
+			// Fire the original complete if it was there.					
+			if ( oldComplete ) {						
+				oldComplete.apply( this, arguments );					
+			}					
+			// Run the next query in the queue.					
+			next();				
+			};		 				
+			// Run the query.				
+			$.ajax( ajaxOpts );			
+			});		
+		}; 	
+	</script>
+
+</body>
+</html>
+

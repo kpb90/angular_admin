@@ -1,0 +1,19 @@
+		<div class="container">
+		{{test}}
+			<div id="login-form" style="width:970px;font-size:12px">
+				<p style="text-align:center;font-size:14px;font-weight:bold;margin-bottom:20px">Импорт данных каталога и фотографий</p>
+								<form method="post" enctype="multipart/form-data" action='catalog.php?action=upload_catalog'>
+								<table cellpadding="0" cellspacing="3" border="0" width="100%">
+									<tr>
+										<td width="240">Выберите Excel файл каталог:</td>
+										<td width="347"><input type="file" size="40" name="catalog"></td>
+										<td><input ng-click="send_file_to_server()" type="button" value="Загрузить"></td> 
+                                                                                <td>
+							<a  href="/catalog/backup_excel/site_data.xls">Последняя версия каталога</a>
+						</td>
+									</tr>			
+								</table>				
+							</form>	
+			</div>
+			<font style='color: green;' ng-bind-html="message| unsafe"></font>
+		</div>

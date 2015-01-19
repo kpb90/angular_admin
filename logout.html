@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Выход из программы</title>
+<script language="javascript" type="text/javascript">
+
+try{
+var agt=navigator.userAgent.toLowerCase();
+if (agt.indexOf("msie") != -1) {
+// IE clear HTTP Authentication
+document.execCommand("ClearAuthenticationCache");
+} 
+else {
+var xmlhttp = createXMLObject();
+xmlhttp.open("GET",".force_logout_offer_login_mozilla",true,"logout","");
+xmlhttp.send("");
+xmlhttp.abort();
+}
+// window.location = "/rest/";
+} catch(e) {
+// There was an error
+alert("there was an error");
+}
+
+function createXMLObject() {
+try {
+if (window.XMLHttpRequest) {
+xmlhttp = new XMLHttpRequest();
+}
+// code for IE
+else if (window.ActiveXObject) {
+xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+}
+} catch (e) {
+xmlhttp=false
+}
+return xmlhttp;
+}
+</script>
+</head>
+<body><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" valign="middle">
+<p><font size="+1">Вы вышли из программы</font></p> 
+<p><font size="+1"><a href="/">Войти в программу</a></font></p>
+<p>&nbsp;</p>*</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,62 @@
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Unknown column 'data' in 'order clause'
+mysql error: Table 'new_vostok.news' doesn't exist
+mysql error: Table 'new_vostok.news' doesn't exist
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'true, id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'true, id desc LIMIT 0, 10' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'true, id desc LIMIT 0, 10' at line 1
+mysql error: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение.
+
+mysql error: No database selected
+mysql error: No database selected
+mysql error: No database selected
+mysql error: No database selected
+mysql error: No database selected
+mysql error: No database selected
+mysql error: No database selected

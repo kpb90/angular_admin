@@ -1,0 +1,48 @@
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by id asc' at line 1
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
+mysql error: Table 'new_vostok.trinity_catalog_groups' doesn't exist
